@@ -60,4 +60,16 @@
 4. Top 15 products account for ~45% of total revenue
 5. Sub-categories like Mobile Accessories and Kitchen Tools show high unit sales but require pricing optimization for better margins
 
-Dashboard
+**Dashboard**<br>
+
+**Page 1 📸 (Home)**<br>
+
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-Amazon-Sales-Analysis-Dashboard/blob/main/Home.png)<br>
+
+**Page 2 📸 (Top 10 selling Products)**<br>
+
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-Amazon-Sales-Analysis-Dashboard/blob/main/Top%2010%20selling%20Products.png)<br>
+
+**Page 3 📸 (Top 10 Brands by Sales )**<br>
+
+![Dashboard](https://github.com/AyushMaurya19/-Power_BI-Amazon-Sales-Analysis-Dashboard/blob/main/Top%2010%20Brands%20by%20sales.png)<br>
